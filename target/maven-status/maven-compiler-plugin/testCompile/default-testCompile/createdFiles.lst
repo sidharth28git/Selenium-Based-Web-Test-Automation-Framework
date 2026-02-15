@@ -1,0 +1,8 @@
+com\healthcare\tests\LoginTest.class
+com\healthcare\pages\HomePage.class
+com\healthcare\pages\AppointmentPage.class
+com\healthcare\pages\LoginPage.class
+com\healthcare\base\BaseTest.class
+com\healthcare\tests\PaymentTest.class
+com\healthcare\tests\BookingTest.class
+com\healthcare\utils\Config.class
